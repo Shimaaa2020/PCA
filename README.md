@@ -1,2 +1,3 @@
-# Unsupervised Learning : Kmeans Clusterin- Hierarchical Clustering
-# Dimension Reduction : PCA - ICA
+# Unsupervised Learning - Dimension Reduction 
+Kmeans Clusterin - Hierarchical Clustering- PCA - ICA
+
